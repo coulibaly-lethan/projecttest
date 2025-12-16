@@ -1,0 +1,17 @@
+:root {
+  --font: 'Satoshi', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #7EB2DD;
+  font-family: var(--font);
+  font-size: 18px;
+  padding: 1rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
