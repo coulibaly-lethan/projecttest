@@ -7,10 +7,9 @@ module.exports = {
         satoshi: ['Satoshi', 'system-ui', 'sans-serif'],
       },
       colors: {
-        primary: '#7EB2DD',
-        darkblue: '#03045E',
       },
     },
   },
   plugins: [],
 };
+

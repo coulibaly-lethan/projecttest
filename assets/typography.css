@@ -10,3 +10,6 @@ h2{
     font-weight: bold;
     opacity: .5; 
 }
+body{
+    --font: 'Satoshi', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+}
